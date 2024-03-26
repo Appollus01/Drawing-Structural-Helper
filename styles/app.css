@@ -37,14 +37,14 @@ input {
 .column-distance {
     z-index: 3;
     position: absolute;
-    top: 10%;
+    top: 90px;
     left: 185px;
 }
 
 .quantities-breacer-purlin {
     z-index: 3;
     position: absolute;
-    top: 33%;
+    top: 300px;
     left: 170px;
 }
 
@@ -63,28 +63,28 @@ button {
 
 .thickness-purlin {
     position: absolute;
-    top: 46%;
+    top: 425px;
     left: 347px;
     width: 35px;
 }
 
 .thickness-purlin-holder {
     position: absolute;
-    top: 51%;
+    top: 475px;
     left: 276px;
     width: 35px;
 }
 
 .thickness-separator-k {
     position: absolute;
-    top: 53%;
+    top: 495px;
     left: 1%;
     width: 35px;
 }
 
 .purlin-distance {
     position: absolute;
-    top: 52%;
+    top: 485px;
     left: 342px;
     width: 35px;
 }
@@ -94,7 +94,7 @@ button {
     width: 50px;
     height: 15px;
     position: absolute;
-    top: 63%;
+    top: 580px;
     left: 139px;
     color: lightblue;
 }
