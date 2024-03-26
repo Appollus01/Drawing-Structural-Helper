@@ -4,6 +4,10 @@ body {
     margin: 0px;
 }
 
+h1 {
+    font-size: 31px;
+}
+
 .main-container {
     width: 100%;
 }
@@ -34,14 +38,14 @@ input {
     z-index: 3;
     position: absolute;
     top: 12%;
-    left: 43%;
+    left: 185px;
 }
 
 .quantities-breacer-purlin {
     z-index: 3;
     position: absolute;
-    top: 35%;
-    left: 43%;
+    top: 34%;
+    left: 170px;
 }
 
 button {
@@ -59,21 +63,21 @@ button {
 
 .thickness-purlin {
     position: absolute;
-    top: 48%;
-    left: 81%;
+    top: 47%;
+    left: 347px;
     width: 35px;
 }
 
 .thickness-purlin-holder {
     position: absolute;
-    top: 53%;
-    left: 63%;
+    top: 52%;
+    left: 276px;
     width: 35px;
 }
 
 .thickness-separator-k {
     position: absolute;
-    top: 55%;
+    top: 54%;
     left: 1%;
     width: 35px;
 }
@@ -81,7 +85,7 @@ button {
 .purlin-distance {
     position: absolute;
     top: 54%;
-    left: 80%;
+    left: 342px;
     width: 35px;
 }
 
@@ -89,9 +93,8 @@ button {
     display: flex;
     width: 50px;
     height: 15px;
-    
     position: absolute;
-    top: 65%;
-    left: 30%;
+    top: 64%;
+    left: 139px;
     color: lightblue;
 }
